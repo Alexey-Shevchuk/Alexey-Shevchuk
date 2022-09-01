@@ -1,5 +1,7 @@
 ## Hi there, I`m Alexey Shevchuk 👋
 
+### I`m currently learning to become a full stack developer
+
 <!--
 **Alexey-Shevchuk/Alexey-Shevchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
