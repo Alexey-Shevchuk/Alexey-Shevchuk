@@ -1,6 +1,22 @@
 ## Hi there, I`m Alexey Shevchuk 👋
 
-### I`m currently learning to become a full stack developer
+### Beginner full stack developer
+
+### seedling I’m currently learning:
+
+Terminal
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+Sass
 
 <!--
 **Alexey-Shevchuk/Alexey-Shevchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
