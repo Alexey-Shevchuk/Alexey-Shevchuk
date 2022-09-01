@@ -2,7 +2,7 @@
 
 ### Beginner full stack developer
 
-### seedling I’m currently learning:
+### I’m currently learning:
 
 Terminal
 
